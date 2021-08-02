@@ -105,3 +105,8 @@ function onHideBtn() {
     refs.buttonLoadMore.classList.remove("is-visible");
     refs.buttonLoadMore.classList.add("load-more");
 }
+
+
+
+
+

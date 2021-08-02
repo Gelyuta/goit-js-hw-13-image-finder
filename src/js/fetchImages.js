@@ -37,3 +37,6 @@ export default class NewsApiService {
     this.searchQuery = newQuery;
   }
 }
+
+
+
